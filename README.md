@@ -23,6 +23,15 @@
 
 ---
 
+## Board
+| Schematic | Board Layout |
+|------------|-------------|
+| <img src="https://github.com/user-attachments/assets/7d56dcdf-56c3-4ae5-9399-c5f3b9d3d52c"  width="450"> | <img src="https://github.com/user-attachments/assets/c5e6d254-4d08-40ca-b0fc-d3d4b2db9a1a" width="450"> |
+| <img src="https://github.com/user-attachments/assets/d574934a-df20-4165-9da0-f07eeed3778f"  width="450"> | <img src="https://github.com/user-attachments/assets/5d03b9c4-2222-43c5-9b3a-60993f20c8c1" width="450"> |
+
+
+---
+
 ## GPIO / Ports
 
 The TC397 exposes multiple GPIO ports. Commonly available ports on the TFT kit include:
@@ -43,6 +52,8 @@ Example:
 P33.1 = Port 33, Pin 1
 P13.0 = Port 13, Pin 0
 ```
+
+> <img width="815" height="434" alt="Screenshot 2026-06-24 180347" src="https://github.com/user-attachments/assets/8e5a1034-c233-4084-8c04-b2da0ca6e5c3" />
 
 ---
 
